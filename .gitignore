@@ -148,3 +148,6 @@ skills-lock.json
 
 # Test artifacts (per-run logs from `harbor dev test`; spec keeps these out of git).
 tests/artifacts/
+
+# llamacpp
+services/llamacpp/data/
